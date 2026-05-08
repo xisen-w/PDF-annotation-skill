@@ -11,7 +11,7 @@ Extract annotations from the given PDF using the bundled script.
 
 1. Run the extraction script on the provided PDF path:
    ```bash
-   python3 ${CLAUDE_SKILL_DIR}/read_annotations.py $ARGUMENTS
+   python3 ${CLAUDE_SKILL_DIR}/scripts/read_annotations.py $ARGUMENTS
    ```
 
 2. If `pymupdf` is not installed, install it first:
