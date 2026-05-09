@@ -33,18 +33,18 @@ Found 3 annotation(s):
   Highlighted: "The frontier is no longer chosen. It is emergent."
   Context: ...policy text alone where the boundary will >>>The frontier is no longer chosen. It is emergent.<<< We cannot predict from...
   Comment: Make it one academic sentence
-  Author: wangxiang
+  Author: lanyangyang
 
 --- Annotation 2 (Page 4, Highlight) ---
   Highlighted: "Table 1: Experimental dimensions."
   Context: >>>Table 1: Experimental dimensions.<<< Each RQ isolates one axis while controlling the others...
   Comment: Put the table even earlier for better 排版
-  Author: wangxiang
+  Author: lanyangyang
 
 --- Annotation 3 (Page 8, Highlight) ---
   Highlighted: "(category deny list) shifts all six models to high security..."
   Comment: make it more concise!, like 1/2 to 2/3
-  Author: wangxiang
+  Author: lanyangyang
 ```
 
 After presenting annotations, Claude will ask whether to apply the changes to your source files.
